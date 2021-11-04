@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KotlinQuizz</string>
+    <string name="name">Escribe tu nombre</string>
+    <string name="btAccept">Aceptar</string>
+    <string name="btStart">Empezar la partida</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sameUser">¿Quieres continuar con el usuario %1$s?</string>
+    <string name="yesContinue">Si</string>
+    <string name="noContinue">No</string>
+    <string name="changeUser">Cambiar de usuario</string>
+    <string name="timeUp">¡Se ha acabado el tiempo!</string>
+    <string name="question1">¿Cual es la mejor saga de la historia del cine?</string>
+    <string name="question2">¿Cual es la segunda mejor saga de la historia del cine?</string>
+    <string name="question3">¿Cual es la tercera mejor saga de la historia del cine?</string>
+    <string name="welcome">¡Hola %1$s!</string>
+    <string name="scoreTextNice">¡Lo has hecho muy bien!\n¡Has conseguido %1$s puntos!</string>
+    <string name="emojisGood">😎👏</string>
+    <string name="scoreTextBad">¡Lo has hecho de pena, acuéstate!\n¡Has conseguido %1$s puntos!</string>
+    <string name="emojisBad">💩💩</string>
+</resources>
